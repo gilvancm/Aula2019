@@ -23,5 +23,6 @@ namespace SalesWebMvc
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }
